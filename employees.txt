@@ -1,1 +1,1 @@
-AM:［AￚM］;SP:Phyron;SI:Illegal_Salad;RM:Mystic682;RT:Toad_211;RZ:Lofi-Zach;RK:K-Rush 'w' 2a79;VO:Ossory;JS:sumokau;JL:Luminus 9-4;DE:Ether Memento;VD:DevvyJ;DS:Smiles Saikou;RS:ෆ~IndiOnCrack~ෆ;RZ:Lofi Zach
+AM:［AￚM］;AD:［AￚD］;SP:Phyron;SI:Illegal_Salad;RM:Mystic682;RT:Toad_211;RZ:Lofi-Zach;RK:K-Rush 'w' 2a79;VO:Ossory;JS:sumokau;JL:Luminus 9-4;DE:Ether Memento;VD:DevvyJ;DS:Smiles Saikou;RS:ෆ~IndiOnCrack~ෆ;RZ:Lofi Zach
