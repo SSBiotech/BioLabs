@@ -1,1 +1,1 @@
-AD:［AￚD］;AM:［AￚM］;CD:DevvyJ;DE:Ether Memento;DS:Smiles Saikou;SI:Illegal_Salad;SP:Phyron;RK:K-Rush 'w' 2a79;RM:Mystic682;RO:Mayoisokiguess;RS:~SkyonCrack~;RT:Toad_211;RZ:Lofi Zach;VJ:ro_cks;VO:Ossory;VS:Codiichan;JL:Luminus 9-4;JS:sumokau
+AD:［AￚD］;AM:［AￚM］;CD:DevvyJ;DE:Ether Memento;DS:Smiles Saikou;SI:Illegal_Salad;SP:Phyron;IO:Mayoisokiguess;RK:K-Rush 'w' 2a79;RM:Mystic682;RS:~SkyonCrack~;RT:Toad_211;RZ:Lofi Zach;VJ:ro_cks;VO:Ossory;VS:Codiichan;JL:Luminus 9-4;JS:sumokau
