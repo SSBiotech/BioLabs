@@ -1,10 +1,11 @@
 A|CWDM|RLHP|JVG
 AD:［AￚD］
-JA:Phyron
+AM:［AￚM］
+AP:Phyron
 CD:DevvyJ
 DB:［DￚB］
-JC:Ether Memento
-JB:Smiles Saikou
+DE:Ether Memento
+DS:Smiles Saikou
 MI:Illegal_Salad
 RK:K-Rush 'w' 2a79
 RM:Mystic682
