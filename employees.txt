@@ -1,4 +1,4 @@
-A|CWDM|RLHP|JVG
+A|CWDNM|RLIHP|JVG
 AD:［AￚD］
 AM:［AￚM］
 AP:Phyron
